@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IDE and OS files (added for lab 4)
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
